@@ -3,6 +3,8 @@
  *
  * SPDX-License-Identifier: LGPL-2.1-or-later
  */
+ 
+/******************add by yxh:宏定义参考，变量宏、异常种类宏、函数宏定义方法***************/
 
 #ifndef MODBUS_H
 #define MODBUS_H

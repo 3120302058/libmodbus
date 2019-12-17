@@ -4,6 +4,7 @@
  * SPDX-License-Identifier: LGPL-2.1-or-later
  */
 
+/*********************add by yxh:数据结构抽象描述，枚举类型、结构体、void*类型数据*********************/
 #ifndef MODBUS_PRIVATE_H
 #define MODBUS_PRIVATE_H
 
